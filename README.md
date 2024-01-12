@@ -30,16 +30,18 @@ Join The Buggy Bandits in revolutionizing how bugs are tackled in the open-sourc
 
 ## Usage
 
-![splash](../Bug-Bounty-Brokers/public/screnshots/splash.png)
+Deployed at: https://evening-cliffs-29965-51622bc99066.herokuapp.com/ 
+
+![splash](./public/screnshots/splash.png)
 
 **Adding A Bounty**
 - Create an account
-![signup](../Bug-Bounty-Brokers/public/screnshots/signup.png)
+![signup](./public/screnshots/signup.png)
 - Log in
 - Click "Search Repos"
 - Type in the name of the repo you would like to view
 - Find the repo in the search results and click the "See Issues" button
-![search](../Bug-Bounty-Brokers/public/screnshots/search.png)
+![search](./public/screnshots/search.png)
 - Scroll through the issues and find one on which you'd like to place a bounty.
 - Enter a bounty amount into the Add Bounty field.
 - Click Create Bounty.
@@ -52,7 +54,7 @@ Join The Buggy Bandits in revolutionizing how bugs are tackled in the open-sourc
 - Click "Most Wanted"
 - You will be shown the top 10 highest bounties on the board.
 
-![wanted](../Bug-Bounty-Brokers/public/screnshots/mostWanted.png)
+![wanted](./public/screnshots/mostWanted.png)
 
 
 **Viewing Bounties You've Placed**
@@ -60,7 +62,7 @@ Join The Buggy Bandits in revolutionizing how bugs are tackled in the open-sourc
 - Click "Bounty Board"
 - You will be shown only the bounties you've placed with the totals reflecting the amount you have placed on each bug.
 
-![My Bounty](../Bug-Bounty-Brokers/public/screnshots/myBounty.png)
+![My Bounty](./public/screnshots/myBounty.png)
 
 
 ## Features
