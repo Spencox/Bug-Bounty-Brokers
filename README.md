@@ -44,7 +44,7 @@ Join The Buggy Bandits in revolutionizing how bugs are tackled in the open-sourc
 - Enter a bounty amount into the Add Bounty field.
 - Click Create Bounty.
 
-![bounty](../Bug-Bounty-Brokers/public/screnshots/createBounty.png)
+![bounty](./public/screnshots/createBounty.png)
 
 **Viewing Top 10 Most Wanted**
 - Create an account
